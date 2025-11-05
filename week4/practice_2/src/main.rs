@@ -20,7 +20,7 @@ fn main()
       let s:f32= (a+b+c) /2.0;
       let mut area:f32 = s* ( s - a) *(s - b) * (s - c);
       area = area.sqrt();
-      println!("Area of a traingle: {}", area );
+      println!("Area of a traingle: {}", area);
 
 
 
